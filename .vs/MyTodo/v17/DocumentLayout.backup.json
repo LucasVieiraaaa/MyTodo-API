@@ -1,15 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|c:\\users\\waz\\desktop\\dev\\mytodo\\migrations\\20241123170857_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|solutionrelative:migrations\\20241123170857_initialcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|c:\\users\\waz\\desktop\\dev\\mytodo\\mytodo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|solutionrelative:mytodo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|c:\\users\\waz\\desktop\\dev\\mytodo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|c:\\users\\waz\\desktop\\dev\\mytodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|c:\\users\\waz\\desktop\\dev\\mytodo\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D83FA4-50AB-4AAF-8A68-1E4FCBBD45DF}|MyTodo.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 316,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 138,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -17,17 +38,82 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241123170857_InitialCreation.cs",
+              "DocumentMoniker": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\Migrations\\20241123170857_InitialCreation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123170857_InitialCreation.cs",
+              "ToolTip": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\Migrations\\20241123170857_InitialCreation.cs",
+              "RelativeToolTip": "Migrations\\20241123170857_InitialCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:09:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTodo.csproj",
+              "DocumentMoniker": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\MyTodo.csproj",
+              "RelativeDocumentMoniker": "MyTodo.csproj",
+              "ToolTip": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\MyTodo.csproj",
+              "RelativeToolTip": "MyTodo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T17:04:16.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:56:11.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "Models\\ToDo.cs",
+              "ToolTip": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\Models\\ToDo.cs",
+              "RelativeToolTip": "Models\\ToDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:53:29.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Waz\\Desktop\\dev\\MyTodo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:53:23.863Z"
             }
           ]
         },
         {
-          "DockedWidth": 84,
+          "DockedWidth": 262,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
